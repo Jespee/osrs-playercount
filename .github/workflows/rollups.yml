@@ -32,3 +32,4 @@ jobs:
           git add data/rollups/*.csv
           git commit -m "Update rollup CSVs" || echo "No changes"
           git push
+
